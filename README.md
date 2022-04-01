@@ -1,5 +1,5 @@
-<!-- markdownlint-disable no-inline-html -->
-<!-- markdownlint-disable ol-prefix -->
+Teal blackbox
+
 
 # GRAVITON (aka the TEAL Blackbox Toolkit): Program Reporting and Testing via Dry Runs
 
